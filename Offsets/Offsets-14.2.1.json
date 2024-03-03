@@ -1,7 +1,7 @@
 {
     "OffsetVersion": "14.2.1",
     "GameOffsets": {
-      "Manager": "0x224c660",
+      "Manager": "0x2251480",
       "MapCount": "0x48",
       "MapRoot": "0x40",
       "MapNodeNetId": "0x20",
@@ -22,8 +22,8 @@
       "GoldTotal": "0x21a0",
       "EXP": "0x4050",
       "Level": "0x4068",
-      "Name": "0x38c8",
-      "NameLength": "0x38d8"
+      "Name": "0x38C8",
+      "NameLength": "0x38D8"
     },
     "FileVersion": "3.0"
   }
